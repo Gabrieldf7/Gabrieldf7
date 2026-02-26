@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="https://marketplace.visualstudio.com/items?itemName=xsro.masm-tasm" height="40" alt="Assembly logo"  />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" height="40" alt="Assembly logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
   <img width="12" />
