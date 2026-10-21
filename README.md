@@ -31,13 +31,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Computação na PUC-Campinas** (conclusão prevista para 2029), focado em construir uma base sólida desde a lógica de hardware e baixo nível até o desenvolvimento de software e algoritmos de análise de dados. Gosto de entender como os sistemas funcionam por baixo dos panos — seja implementando estruturas de dados na unha em **C** e **Java**, ou projetando circuitos digitais e máquinas de estados em **VHDL**.
-
-Atualmente, faço parte de um projeto de **Iniciação Científica em parceria entre a PUC-Campinas e o CNPEM** (Centro Nacional de Pesquisa em Energia e Materiais), atuando no processamento e segmentação de imagens médicas de ressonância magnética. Meu trabalho envolve desde técnicas clássicas de limiarização (como Otsu e Multi-Otsu) com `NumPy`, `scikit-image` e `OpenCV` até o estudo e aplicação de arquiteturas de Deep Learning como **U-Net**.
-
-Fora do escopo de baixo nível e pesquisa, desenvolvo projetos web interativos e ferramentas próprias — incluindo aplicações voltadas ao rastreamento de aprendizado e imersão no idioma japonês, que estudo diariamente.
-
----
+Sou estudante de **Engenharia de Computação na PUC-Campinas** (conclusão prevista para 2029)
 
 ### 🛠️ Tech Stack
 
